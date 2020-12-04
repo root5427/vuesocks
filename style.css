@@ -1,5 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&display=swap");
+
 body {
-  font-family: tahoma;
+  font-family: "Montserrat", sans-serif;
   color: #282828;
   margin: 0px;
 }
